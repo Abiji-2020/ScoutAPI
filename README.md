@@ -1,0 +1,3 @@
+# ScoutAPI
+
+A simple open source client similar to postman for the soucting the API and more featues. ...... 
